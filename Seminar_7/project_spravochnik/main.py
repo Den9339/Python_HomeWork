@@ -1,3 +1,3 @@
-from interface import magic_button
+import controller
 
-magic_button()
+controller.inside_of_program()
